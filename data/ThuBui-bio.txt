@@ -1,7 +1,1 @@
-Name: Thu Bui (Hong Minh Thu Bui)
-Current Position: 3rd year Computer Science PhD student at Purdue University under the supervision of Professor Bruno Ribeiro
-Research Focus: Working on Out-Of-Distribution problems and Graph Generative Models
-Interests: Network science,Machine learning, and Computer vision, with a focus on deep learning. Particularly interested in improving the out-of-distribution robustness of deep neural networks by incorporating domain knowledge like transformation invariances. Also, passionate about graph generative models.
-Education: Bachelor's degree with Honors in Computer Science and Mathematics from Trinity College (2021)
-            Advisors: Professor Ryan Pellico (Mathematics) and Professor Ewa Syta (Computer Science)
-
+Thu Bui (Hong Minh Thu Bui) earned her Bachelor's degree with Honors in Computer Science and Mathematics from Trinity College in 2021, under the guidance of Professor Ryan Pellico and Professor Ewa Syta. Currently, Thu is a third-year Computer Science Ph.D. student at Purdue University, under the supervision of Professor Bruno Ribeiro, where she enjoys opportunities to conduct research, explore new fields, and collaborate with talented individuals. Her research interests span Network Science, Machine Learning, and Computer Vision. Thu is particularly focused on enhancing the out-of-distribution robustness of deep neural networks by integrating domain knowledge such as transformation invariances. Additionally, she is passionate about graph generative models.
